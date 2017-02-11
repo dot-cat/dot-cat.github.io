@@ -1,0 +1,8 @@
+title: Creative Assembly of Technologies
+description: smart, students, diy, iot
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions

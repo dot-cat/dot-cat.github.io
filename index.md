@@ -4,9 +4,9 @@
 
 Результаты нашей деятельности можно увидеть тут:
 
-* Аккаунт на GitHub: https://github.com/dot-cat/
-* Блог: https://blog.dotcat.space
-* Рабочие будни и фото: https://www.flickr.com/photos/150628074@N04/collections/72157674670580843/
+- Аккаунт на GitHub: https://github.com/dot-cat/
+- Блог: https://blog.dotcat.space
+- Рабочие будни и фото: https://www.flickr.com/photos/150628074@N04/collections/72157674670580843/
 
 
 ### Наш первый проект - Creative Home
@@ -41,13 +41,13 @@
 
 Пишите нам напрямую на адрес contact@dotcat.space. Либо команде в социальных сетях:
 
-* Сергей Костюк, team leader: vk.com/ks_vk, facebook.com/sergey.kostyuk
-* Стас Кондрюков: [not filled]
-* Юля Куликовская: [not filled]
-* Влад Лавров: [not filled]
-* Дима Давыдов: [not filled]
-* Руслан Архиреев: [not filled]
-* Рома Кульчицкий: [not filled]
+- Сергей Костюк, team leader: vk.com/ks_vk, facebook.com/sergey.kostyuk
+- Стас Кондрюков: [not filled] 
+- Юля Куликовская: [not filled]
+- Влад Лавров: [not filled]
+- Дима Давыдов: [not filled]
+- Руслан Архиреев: [not filled]
+- Рома Кульчицкий: [not filled]
 
 
 ### P.S.

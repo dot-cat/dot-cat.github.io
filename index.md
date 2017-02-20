@@ -35,7 +35,7 @@
 - Сергей Костюк, team leader: vk.com/ks_vk, facebook.com/sergey.kostyuk
 - Стас Кондрюков: [not filled] 
 - Юля Куликовская: [not filled]
-- Влад Лавров: [not filled]
+- Влад Лавров: vk.com/lavrowlad, facebook.com/lavrowlad
 - Дима Давыдов: [not filled]
 - Руслан Архиреев: [not filled]
 - Рома Кульчицкий: [not filled]
